@@ -1,0 +1,14 @@
+- Create folders calc and geometry
+- Create file calc.go in calc directory
+- calc.go contents
+package calc
+
+func Add(a, b int) int {
+	return a + b
+}
+- Create file cube.go in geometry directory
+package geometry
+
+func CubeVolume(n int) int {
+	return n * n * n
+}
