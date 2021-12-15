@@ -12,3 +12,5 @@ package geometry
 func CubeVolume(n int) int {
 	return n * n * n
 }
+
+- initialize module - run go mod init githib.com/xtechware/go_math
