@@ -14,3 +14,10 @@ func CubeVolume(n int) int {
 }
 
 - initialize module - run go mod init githib.com/xtechware/go_math
+
+I am using GitHub repo https://github.com/xtechware/go_math
+- push to github
+
+Go modules use semver - see here https://semver.org/
+You must use a Git tag with a proper semver
+
