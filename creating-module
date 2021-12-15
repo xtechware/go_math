@@ -20,4 +20,5 @@ I am using GitHub repo https://github.com/xtechware/go_math
 
 Go modules use semver - see here https://semver.org/
 You must use a Git tag with a proper semver
-
+- run git tag -a v1.0.0 -m "Initial release"
+- git push --tags
