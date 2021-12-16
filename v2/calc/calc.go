@@ -5,7 +5,7 @@ func Add(args ...int) int {
 	for _, v := range args {
 		s += v
 	}
-	return 3
+	return s
 }
 
 func Sub(a, b int) int {
