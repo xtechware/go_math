@@ -1,0 +1,3 @@
+- Create this new directory v2
+- Copy calc and geometry folders inside
+- Initialize module - run go mod init github.com/xtechware/go_math/v2
